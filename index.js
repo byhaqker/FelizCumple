@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Yo tambien te quiero ^^')
+    alert('Sabia que me escojerias<3')
 });
 
 const noBtn = document.querySelector('#noBtn');
