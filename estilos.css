@@ -11,7 +11,7 @@
 
 p{
     font-size: xx-large;
-    padding: 15%;
+    padding: 5%;
 }
 
 button{
@@ -21,8 +21,11 @@ button{
 
 #yesBtn{
     transform: translate(-100%,0);
+    background-color:brown
 }
 
 #noBtn{
     position: absolute;
+    background-color: chocolate;
 }
+
